@@ -26,6 +26,7 @@
 
 ### Embedded / HW
 ![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-000000?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### OS / Dev
